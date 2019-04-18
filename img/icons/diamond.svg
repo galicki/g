@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="28px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>001-diamond</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-About" transform="translate(-198.000000, -1091.000000)">
+            <g id="001-diamond" transform="translate(198.000000, 1091.000000)">
+                <g id="Group">
+                    <polygon id="Shape" fill="#00E8F2" points="15 6.5625 7.5 16 7.45513916 15.9437256 0 6.5625 3.32485198 3.07153319 11.675148 3.07153319"></polygon>
+                    <polygon id="Shape" fill="#00CEF5" points="15 6.5625 7.5 16 7.5 3.07153319 11.675148 3.07153319"></polygon>
+                    <polygon id="Shape" fill="#9CFDFF" points="10.012207 6.5546875 4.98779297 6.5546875 7.45513916 3.13378906 7.5 3.07153319"></polygon>
+                    <polygon id="Shape" fill="#00F8FE" points="11.6750336 3.07153319 9.97558594 6.5546875 15 6.5546875"></polygon>
+                    <polygon id="Shape" fill="#9CFDFF" points="3.32496645 3.07153319 5.02441406 6.5546875 0 6.5546875"></polygon>
+                    <polygon id="Shape" fill="#9CFDFF" points="7.06054688 0 7.93945312 0 7.93945312 1.94250488 7.06054688 1.94250488"></polygon>
+                    <polygon id="Shape" fill="#00F8FE" points="9.28264617 1.98449706 9.99526978 0.163452156 10.8063126 0.524658188 10.093689 2.34558106"></polygon>
+                    <polygon id="Shape" fill="#9CFDFF" points="4.19345856 0.524414062 5.00450133 0.163208 5.71712493 1.98425294 4.90608217 2.34533691"></polygon>
+                    <polygon id="Shape" fill="#00F8FE" points="9.97558594 6.5546875 7.5 16 7.45513916 15.8291016 5.02441406 6.5546875"></polygon>
+                    <polygon id="Shape" fill="#00F8FE" points="7.5 0 7.96875 0 7.96875 1.94250488 7.5 1.94250488"></polygon>
+                    <polygon id="Shape" fill="#9CFDFF" points="10.012207 6.5546875 9.97558594 6.5546875 7.5 16 7.5 3.07153319"></polygon>
+                    <polygon id="Shape" fill="#00F8FE" points="10.012207 6.5546875 7.5 6.5546875 7.5 3.07153319"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
